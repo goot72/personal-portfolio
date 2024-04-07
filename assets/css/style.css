@@ -67,6 +67,12 @@ h2 {
     top: -560px;
     display: flex;
  }
+ #title2 {
+    position: relative;
+    left: 100px;
+    top: -240px;
+    display: flex;
+ }
  #logo {
     background-image: url(https://goot72.github.io/Horiseon-website-revision-/);
     display: block;
@@ -74,6 +80,14 @@ h2 {
     text-indent: -9999px;
     position: absolute;
     top: 150px;
+    left: 100px;
+  }
+  #tmt{
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    position: absolute;
+    top: 420px;
     left: 100px;
   }
 @media screen and (max-width: 768px) {
